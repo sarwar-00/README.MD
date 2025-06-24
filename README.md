@@ -1,2 +1,2 @@
 # README.MD
-This is my first repository.
+This is my new repository.
